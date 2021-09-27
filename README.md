@@ -1,4 +1,4 @@
-# Humidity-Tracker-Server
+# Humidity-Temperature-Tracker
 
 ## Dependencies
 
